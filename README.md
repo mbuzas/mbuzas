@@ -28,6 +28,4 @@
 
 - 🎉 Last built MERN project, with few CRUDs I am proud - https://footform.herokuapp.com/ ;
 
-- 👀 You can check other stuff I made a while ago, looking for my first job www.springas.lt ;
-
 - 📫 buzas.mantvydas@gmail.com
