@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mantvydas Buzas, currently seeking for junior position in Kaunas or remote as a Frontend developer; 
+- 👋 Hi, I’m Mantvydas Buzas; 
 
 - 💡 Stuff I know pretty good:
 
