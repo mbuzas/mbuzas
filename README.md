@@ -26,6 +26,4 @@
 
 - 🌐 Have strong English language knowledge. Extremely helped seasonal job in USA, UK, and one semester of international studies;
 
-- 🎉 Last built MERN project, with few CRUDs I am proud - https://footform.herokuapp.com/ ;
-
 - 📫 buzas.mantvydas@gmail.com
