@@ -1,29 +1,29 @@
 - 👋 Hi, I’m Mantvydas Buzas; 
 
 - 💡 Stuff I know pretty good:
-
-      - React (Context API, react-intl, useRef, useEffect, useState, useMemo;
-      - GitHub;
-      - Have already tried deploying to such providers: Heroku, Vercel, DigitalOcean;
-      - Bootstrap;
-      - Node, Express (have done several API's for myself);
-      - Flexbox;
+      🖼️ Frontend:
+      - React, Next, Typescript, Vite, Webpack;
+      💄 UI:
+      - MUI, ChakraUI, KendoUI, Bootstrap;
+      ♻️ JS bundlers:
+      - Webpack, Vite;
+      🤖 Devops:
+      - GitHub, Azure;
+      🔒 Backend:
+      - Node, Graphql, Expess, C# basics;
+      🗃️ Database:
       - MongoDB;
-      - npm;
+      🎨 UI/UX:
       - Figma, Photoshop, Illustrator;
       
-- 🌱 Have used or have basic knowledge with and learning it further:
-
-      - Typescript;
-      - Sass;
-      - Basic CMD commands;
-      - Jest;
-      - React Native;
-      - Eslint;
-      - Material UI;
+- 🌱 Currently interested growing in:
+        - Node, NestJS;
+        - Testing React applications using Jest;
+        - Tailwind / shadcn;
+        - C#, .NET;
       
-- ✨ I have BSc in structural engineering, however I decided to change my qualification and took a turn to programming in mid '21;
+- ✨ I have BSc in structural engineering. However, I decided to change my qualification and took a turn to programming in mid '21;
 
-- 🌐 Have strong English language knowledge. Extremely helped seasonal job in USA, UK, and one semester of international studies;
+- 🌐 Have strong English language knowledge. Extremely helped seasonal job in USA, UK, and one semester of international studies. As well working in international tech company for almost full year;
 
 - 📫 buzas.mantvydas@gmail.com
